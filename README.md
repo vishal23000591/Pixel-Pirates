@@ -95,6 +95,6 @@ We welcome contributions! Feel free to create pull requests or report issues.
 
 ## 🏆 **Team**
 **Pixel Pirates**  
-- [Member 1](https://github.com/member1) - Algorithm Design  
-- [Member 2](https://github.com/member2) - Backend Development  
-- [Member 3](https://github.com/member3) - Frontend Development  
+- [Vishal S](https://github.com/vishal23000591) - Algorithm Design  
+- [Santhosh Kumar R](https://github.com/Santhosh-0031) - Backend Development  
+- [Bhuavnesh S R](https://github.com/Bhuvanesh-Suresh) - Frontend Development  
