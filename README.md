@@ -52,6 +52,8 @@ EcoRoute AI is a cutting-edge solution aimed at optimizing delivery routes dynam
 7. **Real-Time Monitoring**: Adjust routes dynamically as conditions change.  
 8. **Post-Trip Analysis**: Refine the system using trip insights.  
 
+![image](https://github.com/user-attachments/assets/b2dafe26-8cff-43ef-ba43-57bc959ed4fe)
+
 ---
 
 ## 🛠 **Tech Stack**  
@@ -75,7 +77,7 @@ EcoRoute AI is a cutting-edge solution aimed at optimizing delivery routes dynam
    npm install
 
 3. Run the application:
-   ``bash
+   ```bash
    python app.py
    npm start
 
